@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SearchWithRecycler</string>
+    <string name="search_here">Search Here ..</string>
+    <string name="random_text">
+        Random Text line 1 \n random text line 2 \n random text line 3 \n random text line 4 \n random text line 5
+        \n random text line 6
+        \n random text line 7
+        \n random text line 8
+        \n random text line 9
+        \n random text line 10
+    </string>
+    <string name="mic">Mic</string>
+    <string name="person">Person</string>"
+</resources>
